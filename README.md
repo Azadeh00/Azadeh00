@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning materials science and simulation 
 - 💞️ I’m looking to collaborate on software developing
+- New born in IT world
 
 
 <!---
